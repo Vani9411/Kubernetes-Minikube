@@ -90,10 +90,12 @@ I opened the app in my browser using minikube service.
 
 📦 Outcome
 
-By building this project myself, I:
+By building this project myself:
+
 ✅ Learned Kubernetes fundamentals (Deployment, Service, Scaling) 
 
 ✅ Practiced using Minikube for local Kubernetes setup
 
 ✅ Gained confidence in using kubectl commands for real-world projects
+
 
